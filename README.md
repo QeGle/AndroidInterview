@@ -1,3 +1,6 @@
 # AndroidInterview
+HelpKit для Android-разработчиков по подготовке к собеседованиям
 
-[Questions](questions/README.md)	Вопросы
+# Содержание
+* [Questions](questions/README.md) Вопросы
+* ...
