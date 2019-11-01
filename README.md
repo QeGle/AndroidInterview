@@ -1,3 +1,3 @@
 # AndroidInterview
 
-[Questions]: (questions/README.md)	"Вопросы"
+[Questions](questions/README.md)	Вопросы
