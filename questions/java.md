@@ -95,7 +95,7 @@ Todo
 
 ### Расскажите про коллекции в JAVA.
 
-![Java collections](../res/java_collections.png)
+![Java collections](../questions/res/java_collections.png)
 
 ### Collections от чего-то наследуются?
 
